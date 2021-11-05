@@ -1,0 +1,277 @@
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  margin-right: 1rem;
+  border-top: 1px solid rgba(0,0,0,.1);
+}
+
+
+.card-wids {
+    width: 270px !important;
+    height: 553px !important;
+    border: 1px solid #f0f0f0;
+    background-color: #fff;
+    text-align: left;
+    border: 0px solid #f0f0f0;
+
+}
+
+.header {
+    border: 1px solid #f0f0f0!important;
+    background-color: #fff;
+}
+
+.paqs {
+    margin-left: 22px; 
+    padding-top: 10px;
+    text-align: left;
+  }
+
+  .footer-nav {
+    background-color: #343c68 !important;
+  }
+
+  .sendPaqqet {
+    float: left;
+      color: #b7b432;
+      font-size: 25px;
+      margin-top: 15px;
+      margin-left: 10px;
+      margin-bottom: 15px;
+      cursor: pointer;
+  }
+
+  .con {
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    border-bottom: 2px #bbb solid;
+    padding: 5px;
+    margin: 0 0 20px 0;
+  }
+
+  .recent {
+    font-size: 14px;
+    font-weight: 600;
+    padding: 5px;
+    margin: 0;
+    color:  #b7b432 !important;
+    margin-left: -9px;
+
+  }
+  img.profile-icon {
+   
+    border-radius: 50%;
+    width: 40px;
+}
+button {
+    margin: 2px;
+    -webkit-box-flex: 0;
+    flex: 0 1 auto;
+    border: 1px solid #bbb;
+    border-radius: 3px;
+}
+
+ul.contacts {
+    list-style: none;
+    padding: 0;
+}
+.searchButton {
+    padding: 6px 8px;
+}
+
+.iconSearchButton {
+    width: 18px;
+    height: 18px;
+}
+
+.lable-icon {
+  margin-top: 10px;
+    margin-left: 15px;
+}
+
+.but-icon {
+  margin-left: 18px;
+}
+
+.butns-icon {
+  margin-left: 9px;
+}
+
+.footer {
+  background-color: #343c68 !important;
+  color: #fff;
+}
+
+.copy-right {
+  font-size: 14px!important;
+  text-align: center!important;
+  height: 35px!important;
+  margin-top: 6px!important;
+  margin-bottom: 0!important;
+  padding-top: 10px!important;
+  font-size: 11px!important;
+}
+
+.menu-icons {
+  margin-right: 0px;
+}
+.menu-icon {
+  margin-right: 5px;
+}
+.logo-image {
+  height: 35px;
+  margin-top: 14px;
+  margin-bottom: -8px;
+  text-align: left;
+  margin-left: 18px;
+}
+
+.embar {
+  margin-top: 27px;
+    /* margin-left: 40px; */
+}
+
+.menu-button {
+  background-color: transparent !important;
+    border: 0px !important;
+    /* margin-left: -36px; */
+}
+
+button:focus {
+  outline: 1px dotted;
+  outline: 0px auto transparent;
+}
+
+input:focus {
+  outline: 1px dotted;
+  outline: 0px auto transparent;
+}
+
+.contacts-box {
+  margin-left: 5px;
+  padding-bottom: 10px;
+  padding-top: 5px;
+  height: 133px;
+  border: 0px solid #f0f0f0;
+  margin-bottom: 10px;
+  padding-left: 5px;
+  margin-right: 23px;
+  overflow-y: auto;
+  width: 231px;
+  overflow-x: hidden;
+}
+
+.text-name {
+  display: block;
+  /* width: 100px; */
+  width: 80px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin-top: 5px;
+  font-size: 14px;
+}
+
+.menu-label {
+  font-size: 12px;
+  color:  #555;
+}
+
+.con-icons {
+  margin-top: 8px;
+  color: #b7b432 !important;
+  font-size: 13px;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #b7b432;; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #b7b432;; 
+}
+
+.icon-mar {
+  margin-top: 5px;
+  border: 1px solid;
+  border-radius: 10px;
+  padding: 3px;
+}
+
+.serch-filter {
+  margin-left: 3px;
+}
+
+.contact-search {
+  margin-top: 32px;
+}
+
+.text-colors {
+  font-size: 15px;
+    color: navy;
+}
+
+.spin {
+  color: #b7b432;
+}
+
+.search {
+  margin-right: 3px;
+  margin-left: 1px;
+}
+
+.btns {
+  padding: 3px !important;
+  border-radius: 3px;
+  height: 25px !important;
+}
+
+.btn-primary:hover {
+  color: #343c68 !important;
+  background-color: #d4d261!important;
+  border-color: #b7b432!important;
+}
+.btn-primary {
+  color: #343c68 !important;
+  background-color: #d4d261 !important;
+  border-color: #b7b432 !important;
+}
+.btn-s {
+  color: #343c68 !important;
+  background-color: #d4d261 !important;
+  border-color: #b7b432 !important;
+}
+.btn-s:hover {
+  color: #343c68 !important;
+  background-color: #d4d261 !important;
+  border-color: #b7b432 !important;
+}
+.filter-type {
+  height: 27px;
+  margin-top: 2%;
+}
+
+.serch-type {
+  height: 27px;
+  margin-top: 7%;
+  text-align: center;
+  padding: 4px;
+}
+
+.check-box-list {
+  margin-top: 6px;
+  margin-left: 2px;
+}

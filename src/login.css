@@ -1,0 +1,194 @@
+span.pq-bird {
+  background: url("https://www.paqqets.com/o/paqqets-dev-3-theme/images/paqqets-logo-bird.svg") no-repeat top left;
+    background-size: contain;
+    cursor: default;
+    display: inline-block;
+    height: 30px;
+    width: 40px;
+    vertical-align: middle;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    text-align: center !important;
+  }
+
+  
+.header {
+    border: 1px solid #f0f0f0 !important;
+    background-color: #fff;
+  }
+
+  .signin-label {
+    max-width: 99%;
+      overflow: visible;
+      text-overflow: initial;
+      white-space: normal;
+      color: #c9c739;
+      margin-top: 10px;
+      text-align: center;
+  }
+  label, .control-label {
+    color: #869cad;
+    font-size: 12px;
+    font-weight: 500;
+    margin-bottom: 2px;
+  }
+
+  
+  #form-control {
+    display: block;
+    width: 90% !important;
+    height: calc(1.5em + 0.75rem + 2px);
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+  }
+  .card-div {
+    margin-left: 20px !important;
+    text-align: left;
+    margin-top: 100px;
+  }
+  
+  .flow {
+    width: 280px;
+      border: 1px solid #f0f0f0;
+      background-color: #fff;
+  }
+
+  .btn-primary {
+    color: #343c68 !important;
+    background-color: #d4d261!important;
+    border-color: #b7b432!important;
+  }
+.card-wid {
+    width: 280px !important;
+    border: 1px solid #f0f0f0;
+    background-color: #fff;
+    text-align: center !important;
+    height: 530px;
+    border: 0px solid #f0f0f0;
+}
+
+.navbar-btn {
+    display: block;
+    max-width: 200px;
+    margin: 0 auto;
+    font-weight: 500;
+    margin-right:19px;
+  }
+  .navbar-btns {
+    display: block;
+    max-width: 200px;
+    margin: 0 auto;
+    font-weight: 400;
+    margin-right: 19px;
+    /* height: 30px; */
+  }
+  .footer {
+    background-color: #343c68 !important;
+    color: #fff;
+  }
+
+  .copy-rights {
+    font-size: 14px!important;
+    text-align: center;
+    height: 35px!important;
+    margin-top: 8px!important;
+    margin-bottom: 0!important;
+    padding-top: 10px!important;
+    font-size: 11px!important;
+}
+  .register-now {
+    float: right !important;
+    margin-right: 22px;
+    margin-left: 32px !important;
+}
+.register-tog {
+  margin-top: 110px;
+}
+
+.register-span {
+margin-left: 3px !important;
+}
+
+.remember-span {
+  margin-top: 15px;
+}
+
+.rem {
+  margin-top: 8px;
+}
+
+.sign-btn {
+  margin-left: 65px;
+}
+.sign-dis {
+  margin-left: 50px;
+
+}
+.logo-img {
+  height: 35px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+form input {
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+form input.error {
+  border-color: red;
+}
+
+form span.error {
+  color: red;
+}
+
+.hidden {
+  display: none;
+}
+
+.error-msg {
+  color: red;
+}
+.invalid {
+  margin-left: 5px;
+}
+.spins {
+  columns: #343c68 !important;
+  width: 1rem !important;
+  height: 1rem !important;
+  margin-right: 5px;
+} 
+.remember {
+  margin-top: 5px;
+  align-items: center;
+}
+.btn-log {
+  color: #343c68 !important;
+  background-color: #d4d261 !important;
+  border-color: #b7b432 !important;
+}
+.btn-log:hover {
+  color: #343c68 !important;
+  background-color: #d4d261 !important;
+  border-color: #b7b432 !important;
+}
+.password-field {
+  width: 80%!important;
+    margin-left: 15px;
+    display: block;
+    height: calc(1.5em + .75rem + 2px);
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+}
+.password-icon {
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-top: 8px;
+  margin-left: 5px;
+  color: #d4d261 !important;
+  font-size: 14px;
+}
